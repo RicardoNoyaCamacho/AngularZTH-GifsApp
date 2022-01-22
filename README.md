@@ -2,6 +2,12 @@
 
 Este es un mini proyecto donde consumimos la API de Gifs
 
+Puedes consultarla en 
+```
+https://ricardonoyacamacho.github.io/AngularZTH-GifsApp/#
+```
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
