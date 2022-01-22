@@ -1,6 +1,6 @@
 # GifsApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
+Este es un mini proyecto donde consumimos la API de Gifs
 
 ## Development server
 
